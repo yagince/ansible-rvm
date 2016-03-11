@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: newmen
+  author: yagince
   description: RVM and Ruby installation
   min_ansible_version: 2.0
   license: MIT
